@@ -1,6 +1,6 @@
 # To Do list
 ![Project image](https://github.com/Jomonh/to-do-list/blob/main/Todo.png)
-Live <a href="https://jomonh.github.io/to-do-list/">here</a>
+# Live <a href="https://jomonh.github.io/to-do-list/">here</a>
 
 ## Feachers
 A simple to do list using html css and java script.
@@ -13,8 +13,7 @@ A simple to do list using html css and java script.
 
 ## Getting started
 
-To get started with this project, run this in your command prompt/Terminal 
-
+To clone this repository, run this in your command prompt/Terminal 
 ```bash
   git clone https://github.com/Jomonh/to-do-list.git
 ```
